@@ -1,0 +1,16 @@
+         
+            string[] dirs1 = Directory.GetFiles(@"g:\Il mio Drive", "*.cs", SearchOption.AllDirectories);
+            Console.WriteLine("The number of files starting with c is {0}.", dirs1.Length);
+            foreach (string dir in dirs1)
+            {
+                Console.WriteLine(dir);
+            }
+
+
+            Console.WriteLine(AppDomain.CurrentDomain.BaseDirectory);
+            Console.WriteLine("GetFolderPath: {0}",Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData));
+            Console.ReadKey();
+
+
+
+            
