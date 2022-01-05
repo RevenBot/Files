@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Il mio Drive\\Mortacci\\Ricerca_file\\Ricerca_file\\Ricerca_file.csproj": {}
+    "G:\\Il mio Drive\\Mortacci\\Ricerca_file\\Cheat-Research\\Ricerca_file\\Ricerca_file.csproj": {}
   },
   "projects": {
-    "G:\\Il mio Drive\\Mortacci\\Ricerca_file\\Ricerca_file\\Ricerca_file.csproj": {
+    "G:\\Il mio Drive\\Mortacci\\Ricerca_file\\Cheat-Research\\Ricerca_file\\Ricerca_file.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Il mio Drive\\Mortacci\\Ricerca_file\\Ricerca_file\\Ricerca_file.csproj",
+        "projectUniqueName": "G:\\Il mio Drive\\Mortacci\\Ricerca_file\\Cheat-Research\\Ricerca_file\\Ricerca_file.csproj",
         "projectName": "Ricerca_file",
-        "projectPath": "G:\\Il mio Drive\\Mortacci\\Ricerca_file\\Ricerca_file\\Ricerca_file.csproj",
+        "projectPath": "G:\\Il mio Drive\\Mortacci\\Ricerca_file\\Cheat-Research\\Ricerca_file\\Ricerca_file.csproj",
         "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "G:\\Il mio Drive\\Mortacci\\Ricerca_file\\Ricerca_file\\obj\\",
+        "outputPath": "G:\\Il mio Drive\\Mortacci\\Ricerca_file\\Cheat-Research\\Ricerca_file\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",

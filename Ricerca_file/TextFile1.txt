@@ -1,4 +1,5 @@
-         
+ab df ciao ciao fcao d
+
             string[] dirs1 = Directory.GetFiles(@"g:\Il mio Drive", "*.cs", SearchOption.AllDirectories);
             Console.WriteLine("The number of files starting with c is {0}.", dirs1.Length);
             foreach (string dir in dirs1)
@@ -9,8 +10,20 @@
 
             Console.WriteLine(AppDomain.CurrentDomain.BaseDirectory);
             Console.WriteLine("GetFolderPath: {0}",Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData));
-            Console.ReadKey();
+            Console.ReadKey();ciao
 
-
-
-            
+            c
+            FileStream fs = File.Open(pathFile, FileMode.Open);
+                byte[] b = new byte[fs.Length];
+                UTF8Encoding temp = new UTF8Encoding(true);
+                int count = 0;//creo in array byte della parola if(arrayp0=array0) allora p0+1 e count finche p01 e' uguale p0==uguale lunghezza parola cercata
+                while ( count < fs.Length)//read byte(
+                {
+                    fs.Read(b);ciao
+                    Console.Write(temp.ciaoGetString(b));//print string from byte for temp
+                    //Console.WriteLine("{0 } {1} {2} {3} {4}", b[0], b[1], b[2], b[3], b[4]);
+                    Console.Write(b[count]);
+                    count++;
+                    
+                }
+                crea un stringa di dim actual a partire dal indice e la controlli se uguale stampa la parola e vado avanti di dim parola
