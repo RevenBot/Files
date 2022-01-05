@@ -1,5 +1,0 @@
-G:\Il mio Drive\Mortacci\Ricerca_file\Cheat-Research\Ricerca_file\bin\Release\net5.0\publish\Ricerca_file.exe
-G:\Il mio Drive\Mortacci\Ricerca_file\Cheat-Research\Ricerca_file\bin\Release\net5.0\publish\Ricerca_file.dll
-G:\Il mio Drive\Mortacci\Ricerca_file\Cheat-Research\Ricerca_file\bin\Release\net5.0\publish\Ricerca_file.deps.json
-G:\Il mio Drive\Mortacci\Ricerca_file\Cheat-Research\Ricerca_file\bin\Release\net5.0\publish\Ricerca_file.runtimeconfig.json
-G:\Il mio Drive\Mortacci\Ricerca_file\Cheat-Research\Ricerca_file\bin\Release\net5.0\publish\Ricerca_file.pdb
