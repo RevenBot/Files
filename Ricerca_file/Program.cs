@@ -10,18 +10,15 @@ namespace Ricerca_file
 
         static void Main(string[] args)
         {
-            // Line input = Start_up();
-            // do
-            // {
+            Line input = Start_up();
+            do
+            {
 
-            //     input.Input();
+                input.Input();
            
 
-            // } while (true);
-            readWord word = new readWord();
-            word.ReadWord();
-            Console.WriteLine("fine");
-            Console.ReadKey();
+            } while (true);
+            
         }
         static Line Start_up()
         {
